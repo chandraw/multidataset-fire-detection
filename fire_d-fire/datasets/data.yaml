@@ -1,0 +1,7 @@
+names:
+- fire
+nc: 1
+path: datasets
+test: test/images
+train: subset-fire\train\images
+val: test/images

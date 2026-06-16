@@ -1,0 +1,7 @@
+names:
+- fire
+nc: 1
+path: E:\Dataset\fire\fire_roboflow\datasets
+test: test/images
+train: train/images
+val: valid/images

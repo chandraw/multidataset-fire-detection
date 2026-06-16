@@ -1,0 +1,11 @@
+# Fire Detection Dataset - Combined
+# Combined from fire_d-fire, fire_fcmi, fire_roboflow
+# Split ratio: 70% train, 20% val, 10% test
+
+path: datasets
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names: ['fire']

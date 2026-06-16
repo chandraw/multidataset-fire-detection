@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['fire custom model_2 - v7 2024-05-21 5-56am']
+
+roboflow:
+  workspace: mytyolov8
+  project: mytest-hrswj
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mytyolov8/mytest-hrswj/dataset/2
